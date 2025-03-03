@@ -15,15 +15,6 @@ Data Visualization (Power BI/Tableau): Creating interactive dashboards to presen
 2. Domain:
 Retail Analytics in the Electronics Industry: This project focuses on analyzing retail data from Global Electronics to uncover actionable insights that drive business growth.
 
-**Business Use Cases**
-By analyzing customer, product, sales, and store data, the key objectives are:
-
-Enhance marketing strategies and campaigns.
-Optimize inventory management and product development.
-Improve sales forecasting and promotions.
-Provide guidance for store expansions and operational improvements.
-Understand the impact of currency exchange rates on sales for better international pricing strategies.
-
 **Approach:**
 1. Data Cleaning and Preparation:
 Handle missing values and inconsistencies.
